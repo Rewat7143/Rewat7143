@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Rewat7143
+- 👀 I’m interested in data science...
+- 🌱 I’m currently learning analysing data...
+- 💞️ I’m looking to collaborate on top MNC...
+- 📫 How to reach me :
+-     Mobile   : 6281783825
+-     Linkedin : https://www.linkedin.com/in/reddyrewat/
+-     E-mail   : reddyrewat2103@@gmail.com...
+
+<!---
+Rewat7143/Rewat7143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
