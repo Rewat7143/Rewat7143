@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 -     Mobile   : 6281783825
 -     Linkedin : https://www.linkedin.com/in/reddyrewat/
--     E-mail   : reddyrewat2103@@gmail.com...
+-     E-mail   : reddyrewat2103@gmail.com...
 
 <!---
 Rewat7143/Rewat7143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
