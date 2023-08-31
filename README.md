@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Reddy Rewat</h1>
 <h3 align="center">About Me :</h3>  
  <p>
- 👩‍🎓  A Junior year CSE undergrad at Vignan's Institute of Information Technology.
+ 👩‍🎓  A Junior year AI & DS undergrad at Vignan's Institute of Information Technology.
 <br>🐱 I'm 20 y/o, go by he/him pronouns.
 <br>💫 I’m a Python developer, currently learning React, LLMs and ML/AI.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), songs ,etc.
